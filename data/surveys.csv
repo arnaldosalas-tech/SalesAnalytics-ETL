@@ -1,0 +1,3 @@
+source_name,customer_email,sku,date,rating,comment,external_id
+Website,maria.lopez@example.com,SKU-1001,2025-09-21,5,Excelente calidad,S-001
+Website,juan.perez@example.com,SKU-3001,2025-09-22,4,Muy útil,S-002
