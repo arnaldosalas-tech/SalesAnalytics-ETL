@@ -1,4 +1,0 @@
-invoice_number,invoice_date,customer_email,sku,qty,unit_price,discount_pct,tax_pct,currency,source_name
-F-0001,2025-09-20,maria.lopez@example.com,SKU-1001,2,450.00,0,18,DOP,Shopify
-F-0001,2025-09-20,maria.lopez@example.com,SKU-2001,1,750.00,10,18,DOP,Shopify
-F-0002,2025-09-21,juan.perez@example.com,SKU-3001,1,1200.00,0,18,DOP,Website
